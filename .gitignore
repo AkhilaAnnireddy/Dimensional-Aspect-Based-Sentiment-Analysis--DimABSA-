@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.conda
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data (don't commit large files)
+*.jsonl
+*.csv
+*.xlsx
+
+# Models (large files)
+*.pth
+*.pt
+*.bin
+*.h5
+
+# Results
+results/
+outputs/
+predictions/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
