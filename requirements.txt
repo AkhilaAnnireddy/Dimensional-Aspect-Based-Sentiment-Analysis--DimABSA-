@@ -1,0 +1,28 @@
+# Core ML + Transformers
+torch
+torchvision
+torchaudio
+transformers>=4.35.0
+datasets
+accelerate
+
+# NLP and tokenization
+sentencepiece
+protobuf
+
+# Utilities
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Evaluation
+scipy
+
+# Notebook
+jupyter
+notebook
+ipykernel
+
+# Optional but helpful
+matplotlib
